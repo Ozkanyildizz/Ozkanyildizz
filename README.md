@@ -2,7 +2,7 @@
 - 👀 I’m interested in to code, voleybol, and tenis,
 - 🌱 I'm currently learning Python and Flutter. After mastering Python, I'm eager to dive into mobile development with Flutter.
 - 📫 How to reach me: You can email me to contact me.
-- 😄 Pronouns: Özkan 
+- 😄 Pronouns: As you wish or just Özkan:)
 
 
 <!---
