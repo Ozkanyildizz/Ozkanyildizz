@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ozkanyildizz I am 20 years old. I have just finished preparetion clas to learn english. I learnd to code on my own. Now I am studying computter engineering.
 - 👀 I’m interested in to code, voleybol, and tenis,
-- 🌱 I'm currently learning Python (numpy, pandas, tkinter, custemtkinter).
+- 🌱 I'm currently learning Python (Machine learning, data science, numpy, pandas, tkinter, custemtkinter).
 - 📫 How to reach me: You can email me to contact me.
 - 😄 Pronouns: As you wish or just Özkan:)
 
