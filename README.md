@@ -1,8 +1,37 @@
-- 👋 Hi, I’m @Ozkanyildizz I am 20 years old. I have just finished preparetion clas to learn english. I learnd to code on my own. Now I am studying computter engineering.
-- 👀 I’m interested in to code, voleybol, and tenis,
-- 🌱 I'm currently learning Python (Machine learning, data science, numpy, pandas, tkinter, custemtkinter).
-- 📫 How to reach me: You can email me to contact me.
-- 😄 Pronouns: As you wish or just Özkan:)
+# 👋 Hi, I'm Özkan Yıldız!  
+
+**🧑‍💻 About Me:**  
+- 🎓 I'm 20 years old and currently studying **Computer Engineering** at **Düzce University**.  
+- 🏆 I have completed the **English preparatory class** and learned to code on my own.  
+- 💡 Passionate about **coding**, **problem-solving**, and building new projects.  
+- 🌍 I love exploring different cultures and meeting new people.  
+
+---
+
+**👀 Interests:**  
+- 💻 Coding (Python, Machine Learning, Data Science)  
+- 🏐 Volleyball  
+- 🎾 Table Tennis  
+
+---
+
+**🌱 Currently Learning:**  
+- 🐍 Python (Machine Learning, Data Science, Numpy, Pandas)  
+- 🖥️ GUI development with **Tkinter** and **CustomTkinter**  
+- 🤖 Artificial Intelligence & Desktop Apps
+
+---
+
+**📫 How to Reach Me:**  
+- ✉️ You can email me to contact me.  
+
+---
+
+😄 **Pronouns:** As you wish or just Özkan 😎  
+
+---
+
+🚀 *"With dedication and effort, anything is possible!"*  
 
 
 <!---
