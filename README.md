@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Özkan Yıldız!  
 
 **🧑‍💻 About Me:**  
-- 🎓 I'm 20 years old and currently studying **Computer Engineering** at **Düzce University**.  
+- 🎓 I'm 21 years old and currently studying **Computer Engineering** at **Düzce University**.  
 - 🏆 I have completed the **English preparatory class** and learned to code on my own.  
 - 💡 Passionate about **coding**, **problem-solving**, and building new projects.  
 - 🌍 I love exploring different cultures and meeting new people.  
@@ -9,7 +9,7 @@
 ---
 
 **👀 Interests:**  
-- 💻 Coding (Python, Machine Learning, Data Science)  
+- 💻 Coding (Python,c++,ros2, Machine Learning, Data Science)  
 - 🏐 Volleyball  
 - 🎾 Table Tennis  
 
