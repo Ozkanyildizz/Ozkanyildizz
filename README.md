@@ -9,7 +9,7 @@
 ---
 
 **👀 Interests:**  
-- 💻 Coding (Python,c++,ros2, Machine Learning, Data Science)  
+- 💻 Coding (Python,c++,c#,ros2, Machine Learning, Data Science)  
 - 🏐 Volleyball  
 - 🎾 Table Tennis  
 
@@ -17,7 +17,7 @@
 
 **🌱 Currently Learning:**  
 - 🐍 Python (Machine Learning, Data Science, Numpy, Pandas)  
-- 🖥️ GUI development with **Tkinter** and **CustomTkinter**  
+- 🖥️ GUI development with **Tkinter**, **CustomTkinter** and **Qt** 
 - 🤖 Artificial Intelligence & Desktop Apps
 
 ---
