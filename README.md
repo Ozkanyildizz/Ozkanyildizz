@@ -37,7 +37,7 @@
 
 <div align="center">
 
-### 👤 Yazar / Author
+### 👤 
 
 **Özkan Yıldız**
 
