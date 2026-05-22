@@ -1,7 +1,7 @@
-<h1 align="center">Merhaba, Ben Özkan Yıldız 👋</h1>
+<h1 align="center">Özkan Yıldız 👋</h1>
 
 <h3 align="center">
-  Sağlıkta Yapay Zeka Araştırmacısı | İHA TEKNOFEST Kaptanlığı | LeetCode Problemleri Çözücüsü
+ BSc Computer Engineering | AI & Data Science Enthusiast | Building Autonomous Systems
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 Benim Hakkımda
+### 👨‍💻  Hakkımda
 
 - 🔭 **Yapay Zeka** ve **İHA** projeleri üzerinde çalışıyor, Teknofest takımlarında kaptanlık yapıyorum.
 - 📱 Kişisel mobil uygulama fikirlerim üzerinde **Flutter** kullanarak geliştirmeler yapıyorum.
