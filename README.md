@@ -14,6 +14,9 @@
   <a href="mailto:yildizozkan211@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://ozkanyildiz.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-25292E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 ---
